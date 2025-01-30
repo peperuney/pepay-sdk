@@ -1,7 +1,7 @@
 
 # PEPAY SDK Documentation
 
-PEPAY is a cryptocurrency payment processing platform that allows merchants to accept various cryptocurrencies while receiving stable USD payments. This SDK provides easy integration with the PEPAY API.
+PEPAY is a cryptocurrency payment processing platform that allows merchants to accept various cryptocurrencies. This SDK provides easy integration with the PEPAY API.
 
 ## Installation
 
